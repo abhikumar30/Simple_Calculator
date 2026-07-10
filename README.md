@@ -1,2 +1,2 @@
 # Simple_Calculator
-This is simple calculator which calculates the given data.
+This is simple calculator which calculate the given data.
